@@ -1,4 +1,9 @@
-# React-Native tips
+# React-Native useful Gists
+#####[TouchableView](https://gist.github.com/mmazzarolo/4d223de6787b9a57ce4b)  
+A ready to use View that on touch:
+- displays a ripple effect when on Android versions > Kitkat
+- decreases the opacity on the other Android versions and iOS
+Apply the needed style on it just like a normal View.
 
 # React-Native resources
 ### React-Native news
