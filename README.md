@@ -1,7 +1,7 @@
 # React-Native tips
 ##### Gracefully delay the app start
 The app startup screen is the first screen any user will see: if you need to load data there try to show a nice placeholder instead of a standard spinner.  
-A nice pattern in my opinion is showing the app logo and, when ready, show a transaction animation to the next screen.
+A nice pattern in my opinion is showing the app logo and, when ready, show a transaction animation to the next screen.  
 For example [in this component](http://im.ezgif.com/tmp/ezgif-1735136046.gif):  
   1. The first `render()` shows only the logo  
   2. `componentDidMount()` triggers an asynchronous function that checks for a token of a saved logged user in the localstorage  
