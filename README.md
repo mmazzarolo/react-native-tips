@@ -1,3 +1,13 @@
+# React-Native tips
+##### Gracefully delay the app start
+The app startup screen is the first screen any user will see: if you need to load data there try to show a nice placeholder instead of a standard spinner.  
+A nice pattern in my opinion is showing the app logo and, when ready, show a transaction animation to the next screen.
+For example [in this component](http://im.ezgif.com/tmp/ezgif-1735136046.gif):  
+  1. The first `render()` shows only the logo  
+  2. `componentDidMount()` triggers an asynchronous function that checks for a token of a saved logged user in the localstorage  
+  3. When the function ends it updates the app state: if the there is a saved token it fades-in to the home screen, otherwise it just fades-in the login buttons/form (like in the .gif) 
+
+
 # React-Native useful Gists
 #####[TouchableView](https://gist.github.com/mmazzarolo/4d223de6787b9a57ce4b)  
 A ready to use View that on touch:
