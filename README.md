@@ -5,7 +5,10 @@
 A ready to use View that on touch:
 - displays a ripple effect when on Android versions > Kitkat
 - decreases the opacity on the other Android versions and iOS
-Apply the needed style on it just like a normal View.
+Apply the needed style on it just like a normal View.  
+
+#####[LoadingSpinner](https://gist.github.com/mmazzarolo/4d223de6787b9a57ce4b)  
+Simple platform independent spinner.
 
 ## React-Native resources
 ### React-Native news
