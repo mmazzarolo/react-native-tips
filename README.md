@@ -11,10 +11,12 @@ Apply the needed style on it just like a normal View.
 Simple platform independent spinner.
 
 ## React-Native resources
-### React-Native news
+### React-Native news and stuff for being always up to date
 - [Medium](https://medium.com/tag/react-native/latest)   
 - [Reactnative.com](http://www.reactnative.com/)
-- [Twitter](https://twitter.com/hashtag/reactnative)  
+- [Twitter](https://twitter.com/hashtag/reactnative) 
+- [React-Native Issues](https://github.com/facebook/react-native/issues)
+- [JS.coach](https://js.coach/react-native) 
 
 ### Interesting links
 - [Discussion/fixes about the android slow transitions](https://github.com/facebook/react-native/issues/3049)
