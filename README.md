@@ -31,6 +31,7 @@ Custom animated modal for React-Native:
 - animated modal content transition (slideIn/slideOut)  
 - supports Android back button press to dismiss  
 - supports backdrop press to dismiss  
+  
 ![](https://raw.githubusercontent.com/mmazzarolo/react-native-tips/master/imgs/modal.gif)
-<br />
+<br />  
 --
