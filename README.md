@@ -7,11 +7,6 @@ Apply the needed style on it just like a normal View
 <br />  
 --
 
-###[LoadingSpinner](https://gist.github.com/mmazzarolo/4d223de6787b9a57ce4b)  
-Platform independent spinner
-<br />
---
-
 ###[RadioButton](https://gist.github.com/mmazzarolo/3ed3883d5c838c7010c353c6f3ac2be8)
 Simple animated React-Native radio button for both Android and iOS  
 ![](https://raw.githubusercontent.com/mmazzarolo/react-native-tips/master/imgs/radio-button.gif)
@@ -31,6 +26,13 @@ Custom animated modal for React-Native:
 - animated modal content transition (slideIn/slideOut)  
 - supports Android back button press to dismiss  
 - supports backdrop press to dismiss  
+  
+![](https://raw.githubusercontent.com/mmazzarolo/react-native-tips/master/imgs/modal.gif)
+<br />  
+--
+
+###[CustomDatePickerIOS](https://gist.github.com/mmazzarolo/d2d88305a4fb4a51a1e76e91bae3c31b)
+DatePickerIOS inside an IOS ActionSheet (animated thanks to the CustomModal you can find above).
   
 ![](https://raw.githubusercontent.com/mmazzarolo/react-native-tips/master/imgs/modal.gif)
 <br />  
