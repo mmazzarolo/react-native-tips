@@ -34,6 +34,6 @@ Custom animated modal for React-Native:
 ###[CustomDatePickerIOS](https://gist.github.com/mmazzarolo/d2d88305a4fb4a51a1e76e91bae3c31b)
 DatePickerIOS inside an IOS ActionSheet (animated thanks to the CustomModal you can find above).
   
-![](https://raw.githubusercontent.com/mmazzarolo/react-native-tips/master/imgs/modal.gif)
+![](https://raw.githubusercontent.com/mmazzarolo/react-native-tips/master/imgs/datepicker-ios.gif)
 <br />  
 --
